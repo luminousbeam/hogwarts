@@ -1,8 +1,10 @@
 To get it up and running simply do: 
-'''rake db:migrate db:seed'''
+```
+rake db:migrate db:seed
+```
 
 You can then run the rails server, it is set to run on localhost:3000:
-'''rails s'''
+```rails s```
 
 ##OH NO
 Hogwarts has lost all its magic and now NOTHING WORKS!
